@@ -1,10 +1,11 @@
 {
-  "manifest_version": 3,
+  "manifest_version": 4,
   "type": "extension",
   "name": "Emoji 修复",
   "slug": "emojifix",
   "description": "Patch QQ 的 Emoji 字体",
   "version": "0.1.0",
+  "icon": null,
   "author": {
     "name": "MingxuanGame",
     "link": "https://github.com/MingxuanGame"
